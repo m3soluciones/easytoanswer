@@ -3,4 +3,5 @@ easytoanswer
 
 Encuestas faciles de responder
 
-Hola, esto es una prueba
+Plataforma Informatica para la creacion de encuestas por Internet
+Analisis de los resultados de las encuestas.
